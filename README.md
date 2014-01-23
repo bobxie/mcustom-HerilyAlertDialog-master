@@ -14,9 +14,9 @@ with HerilyAlertDialog like use AlertDialog. Feel free to use it all you want in
 
 Setup
 -----
-* In Eclipse, just import the library as an Android library project. Project > Clean to generate the binaries 
+* In Eclipse, just import the mcustom-HerilyAlertDialog-library as an Android library project. Project > Clean to generate the binaries 
 you need, like R.java, etc.
-* Then, just add HerilyAlertDialog as a dependency to your existing project and you're good to go!
+* Then, just add mcustom-HerilyAlertDialog-library as a dependency to your existing project and you're good to go!
 
 Simple Example
 -----
